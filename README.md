@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="public/img/logo_cpa.svg" width="500">
+<img src="https://raw.githubusercontent.com/amaro-netto/CPA-Calculo-de-Pencao-Alimenticia/2b862112d73f5cb4bfce86325142f9bff8cd6f4b/imagens/logo_cpa.svg" width="500">
 </div>
 
 ### Badges
