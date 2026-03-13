@@ -6,15 +6,13 @@
 </div>
 
 ### Badges
-![Vite](https://img.shields.io/badge/Vite-Fast%20Builds-646CFF?logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Typed%20JS-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-Componentes%20Reativos-61DAFB?logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Estilização%20Rápida-06B6D4?logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-UI%20Moderna-8B5CF6?logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automação-2088FF?logo=githubactions&logoColor=white)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ee8557bb-5ee7-4bfe-83fe-2aed892ca947/deploy-status)](https://app.netlify.com/projects/cpa-calculopensaoalimenticia/deploys)
-[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue)](https://github.com/seu-usuario/seu-repositorio)
-[![Licença: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <img src="https://img.shields.io/badge/Vite-Fast%20Builds-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/TypeScript-Typed%20JS-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-Componentes%20Reativos-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-Estilizacao%20Rapida-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-UI%20Moderna-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="shadcn/ui">
+</p>
 
 
 ### Sumário
