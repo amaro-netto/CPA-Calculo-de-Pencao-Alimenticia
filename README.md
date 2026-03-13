@@ -148,6 +148,9 @@ O **CPA - Cálculo de Pensão Alimentícia** foi desenvolvido com o propósito d
 ### Screenshot
 <img src="https://github.com/user-attachments/assets/14492323-5727-4ed3-ba15-0095ca9a2443" height="500"> <img src="https://github.com/user-attachments/assets/cc158a0e-c7ae-4a87-832b-21f479003e1f" height="500">
 
-
+----
+<div align="center">
+  <strong>© 2026 CPA - Cálculo de Pensão Alimentícia</strong> - Desenvolvido por <em>Amaro Netto</em>.
+</div>
 
 
