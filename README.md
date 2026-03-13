@@ -37,7 +37,7 @@ Nosso sistema foi criado para eliminar a complexidade dos cálculos retroativos 
 
 ### Status do Projeto
 
-O projeto **CPA - Cálculo de Pensão Alimentícia** está atualmente em fase de **desenvolvimento ativo**. As funcionalidades principais já foram implementadas e estão em fase de testes rigorosos para garantir a precisão. Novas funcionalidades são adicionadas regularmente, buscando sempre aprimorar a experiência do usuário e a exatidão dos cálculos.
+O projeto **CPA - Cálculo de Pensão Alimentícia** está **Concluído **. As funcionalidades principais já foram implementadas e funconando precisamente desde julho de 2025. Atualmente esse projeto foi expandido e foi criado outro repositório [JUSCALC](https://github.com/amaro-netto/juscalc-calculadoras-juridicas).
 
 
 ## Funcionalidades e Demonstração da Aplicação
