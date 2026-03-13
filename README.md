@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/shadcn%2Fui-UI%20Moderna-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="shadcn/ui">
   <img src="https://img.shields.io/badge/GitHub%20Actions-Automacao-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" alt="Status">
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="Licença MIT"></a>
 </p>
 
 
